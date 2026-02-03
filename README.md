@@ -90,9 +90,7 @@ The Black Friday dataset contains transactional data from a retail store, includ
 
 ## ✍️ Author
 
-**Your Name**
-
-VIKAS KUMAR
+**VIKAS KUMAR**
 
 ## 📜 License
 
